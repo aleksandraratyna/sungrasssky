@@ -1,0 +1,21 @@
+body {
+    background-color: cornflowerblue;
+  }
+  
+  div.grass {
+    position: fixed;
+    background-color: seagreen;
+    width: 100%;
+    bottom: 0;
+    top: 70%; 
+  }
+  
+  div.sun {
+    position: absolute;
+    background-color: rgb(255, 196, 0);
+    top: 40%;
+    bottom: 10%;
+    left: 40%;
+    right: 40%;
+    border-radius: 50%;
+  }
